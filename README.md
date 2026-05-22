@@ -77,7 +77,7 @@ mvn spring-boot:run
 ## 🌍 Access Application
 
 ```text
-http://localhost:8080/chat
+https://real-time-chat-app-1-t31q.onrender.com/chat
 ```
 
 ---
